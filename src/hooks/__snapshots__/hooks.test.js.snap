@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useConfig: Merge config result matchs snapshot 1`] = `
+Object {
+  "burger": Object {
+    "color": "#fff",
+  },
+  "header": Object {
+    "background": "#000",
+  },
+  "logo": Object {
+    "height": 36,
+    "url": "logo.svg",
+    "width": 147,
+  },
+  "section": Object {
+    "color": "#fff",
+    "size": 16,
+  },
+  "tabs": Object {
+    "home": "Home",
+    "national": "National",
+    "politics": "Politics",
+    "sports": "Sports",
+    "technology": "Technology",
+  },
+}
+`;
